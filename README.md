@@ -1,6 +1,7 @@
-###  MediPredict
+###  MEDIPREDICT
 
-# A NHS GP Appointment No-Show Prediction App
+ A NHS GP Appointment No-Show Prediction Streamlit Web app
+
 MediPredict is a data-driven  web application developed using Streamlit that predicts the likelihood of a patient missing their GP appointment or attending their scheduled appointment. It also features an interactive dashboard for easy visualization and understanding of the data that contributes to patient no-shows. This assists healthcare providers in improving resource allocation, reducing missed appointments, enhancing patient management, and understanding the factors that lead to no-shows.
 
 
