@@ -21,17 +21,17 @@ Predicting patient no-shows based on real-world open-source data from Kaggle.
  Manually download and unzip the project folder, then navigate into it using your terminal or Anaconda Prompt.
 
 
-# Create and Activate a Virtual Environment
+ Create and Activate a Virtual Environment
 - python -m venv venv
 - venv\Scripts\activate   # On Windows
 - source venv/bin/activate  # On Mac/Linux
 
-# Install the Required Libraries
+Install the Required Libraries
 
-# Ensure you are inside the project folder, then run:
+Ensure you are inside the project folder, then run:
 - pip install -r requirements.txt
 
-# Run the Streamlit App
+Run the Streamlit App
 Use the command below to launch the app:
 - streamlit run app.py
 
