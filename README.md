@@ -5,7 +5,7 @@
 MediPredict is a data-driven  web application developed using Streamlit that predicts the likelihood of a patient missing their GP appointment or attending their scheduled appointment. It also features an interactive dashboard for easy visualization and understanding of the data that contributes to patient no-shows. This assists healthcare providers in improving resource allocation, reducing missed appointments, enhancing patient management, and understanding the factors that lead to no-shows.
 
 
-## Features
+# Features
 Predicting patient no-shows based on real-world open-source data from Kaggle.
 
 - An interactive streamlit dashboard infused in the streamlit web app for easy visualization of important attributes like no-show by age, gender, SMS received, etc, which contributes to the probability of no-show.
@@ -14,10 +14,12 @@ Predicting patient no-shows based on real-world open-source data from Kaggle.
 - User-friendly interface accessible from any browser to enable users with no coding experience to navigate freely.
 - A prediction page where authorized users input real-time patient data for prediction to be made based on the input data while displaying  the probability.
 
-### Installation & Setup
+# Installation & Setup
 
-# Follow these steps to set up the project locally:
+ Follow these steps to set up the project locally:
+ 
  Manually download and unzip the project folder, then navigate into it using your terminal or Anaconda Prompt.
+
 
 # Create and Activate a Virtual Environment
 - python -m venv venv
@@ -35,7 +37,7 @@ Use the command below to launch the app:
 
 This will open the app in your default browser. If it doesn’t open automatically, copy the URL that appears in your terminal (e.g., http://localhost:8501) and paste it into your browser.
 
-## Or 
+# Or 
 
 # Clone the repository
 - git clone https://github.com/Christiana123-addo/MediPredict.git
