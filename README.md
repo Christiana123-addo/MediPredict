@@ -37,9 +37,19 @@ Use the command below to launch the app:
 
 This will open the app in your default browser. If it doesn’t open automatically, copy the URL that appears in your terminal (e.g., http://localhost:8501) and paste it into your browser.
 
-# Or 
+Or 
 
 # Clone the repository
 - git clone https://github.com/Christiana123-addo/MediPredict.git
-- cd appointment_model_keras
+- cd MediPredict
 
+ # Notes
+The trained model file (newmodel.h5) is excluded from the repository due to its large size. You may contact the project maintainer if you need access to it.
+
+For best performance and portability, consider using Docker or deploying via Streamlit Cloud.
+
+Contact
+Maintained by Christiana Addo
+
+This project is licensed under the MIT License.
+GitHub: Christiana123-addo
